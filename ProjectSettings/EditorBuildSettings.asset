@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sheep Spawner.unity
     guid: b735d7ae63b6a1c42b1182ab247426b5
+  - enabled: 1
+    path: Assets/Scenes/YarnProduce.unity
+    guid: 526f67dd9812f14418d5a1ebf1e5a998
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b2d7382cd04f3e449aa943d676ade7ea, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3afbbeee67657e74299de02d50743c91, type: 2}
