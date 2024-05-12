@@ -158,7 +158,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.DefaultCompany.ARProjectface
+    Android: com.DefaultCompany.WoolToCool
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -830,7 +830,13 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 0
+    Game Performance: 0
+    Legacy Analytics: 0
+    Purchasing: 0
+    UDP: 0
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -850,11 +856,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 0a6aba0f-0185-4639-8642-884b1c1b6b25
+  cloudProjectId: 427b37fe-c288-44f9-b54a-5bc75a02f9fc
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: AR Project face
-  organizationId: gauraang21csu319
+  projectName: WoolToCool
+  organizationId: ggauraang
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
