@@ -775,6 +775,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 5987182362145512546, guid: e7eea12a23e76e34e9c1ab64fcbd954a, type: 3}
+      propertyPath: m_SpriteState.m_SelectedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 75a72afb27431d8478b29955ef8cadc7, type: 3}
     - target: {fileID: 9026618763249285225, guid: e7eea12a23e76e34e9c1ab64fcbd954a, type: 3}
       propertyPath: m_Pivot.x
       value: 0
