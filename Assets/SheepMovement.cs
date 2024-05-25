@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class SheepMovement : MonoBehaviour
 {
-    public float speed = 1.0f;
+    public float speed = 0.01f;
     public float changeDirectionTime = 2.0f;
 
     private Vector3 direction;
