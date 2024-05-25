@@ -75,5 +75,27 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0a732a449f6e1da42a39c2f16e2a74fa, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4120167347707303835}
   m_SourcePrefab: {fileID: 100100000, guid: 0a732a449f6e1da42a39c2f16e2a74fa, type: 3}
+--- !u!1 &7576336904249983407 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0a732a449f6e1da42a39c2f16e2a74fa, type: 3}
+  m_PrefabInstance: {fileID: 7342529390616378622}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4120167347707303835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7576336904249983407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502ed1832be74964aa1582647979d7e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 1
+  changeDirectionTime: 2
